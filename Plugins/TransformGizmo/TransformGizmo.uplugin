@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Transform Gizmo",
+	"Description": "Runtime move/rotate/scale gizmo with pointer interaction (Robin Wood, MIT). Blueprint content from UnrealTransformGizmo, packaged as a content plugin for UE 5.9.",
+	"Category": "Gameplay",
+	"CreatedBy": "Robin Wood",
+	"CreatedByURL": "https://github.com/robinwood3d/UnrealTransformGizmo",
+	"CanContainContent": true,
+	"Installed": false
+}
